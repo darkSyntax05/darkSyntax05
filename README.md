@@ -50,21 +50,21 @@ I want to keep learning about cybersecurity and ethical hacking.
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-    <img src="https://img.shields.io/badge/Networking-008C8C?style=for-the-badge&logo=cisco&color=000000" alt="Networking" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000000" alt="Python" />
+    <img src="https://img.shields.io/badge/Networking-008C8C?style=for-the-badge&logo=cisco&logoColor=white&color=000000" alt="Networking" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=000000" alt="Linux" />
 
-    <img src="https://img.shields.io/badge/Web_Security-E34F26?style=for-the-badge&logo=html5&color=000000" alt="Web Security" />
-    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&color=22F700" alt="OWASP" />
+    <img src="https://img.shields.io/badge/Web_Security-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=000000" alt="Web Security" />
+    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&color=22F700" alt="OWASP" />
 
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+    <!-- No official logos, so clean text badges -->
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&color=000000" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&color=000000" alt="Metasploit" />
 
-    <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&color=000000" alt="Cybersecurity" />
+    <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white&color=000000" alt="Cybersecurity" />
 
   </div>
 </div>
-
 
 ---
 
